@@ -2,6 +2,10 @@
 
 A simple Flask+Docker app which can be used to check everything is working!
 
+## Clone files
+
+git clone https://github.com/exactful/flask-test.git
+
 ## Build image
 
 docker image build -t flask-test .
