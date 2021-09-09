@@ -2,7 +2,7 @@
 
 A simple Flask+Docker app which can be used to check everything is working!
 
-**Build image**
+##Build image
 
 docker image build -t flask-test .
 
